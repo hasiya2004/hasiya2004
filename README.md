@@ -1,4 +1,6 @@
 # HI! There I'm Hasindu 🤟
+I'm a Hasindu Senarathne SE student thats very passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects.
+
 
 <img align= "left" width ="47%" src = "https://github-readme-stats.vercel.app/api?username=hasiya2004&show_icons=true&theme=radical"/>
 <img align= "left" width ="46%"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hasiya2004&layout=compact"/>
