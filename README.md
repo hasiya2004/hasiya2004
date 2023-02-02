@@ -4,10 +4,10 @@ I'm a Hasindu Senarathne SE student thats very passionate about solving complica
 
 <!-- Light Mode -->
 <div align="left"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/hasiya2004/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/hasiya2004/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
 </a>
 </div>
