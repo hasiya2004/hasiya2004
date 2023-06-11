@@ -6,6 +6,7 @@
 ☕ In Java, I have a strong understanding of object-oriented programming principles and design patterns. I am comfortable working with popular frameworks such as Spring and Hibernate, and I have experience building web applications and RESTful APIs.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasiya2004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 <img align= "bottom"  src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
