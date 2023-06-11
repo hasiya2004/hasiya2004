@@ -4,7 +4,9 @@
 🌟 I am always eager to learn new concepts and technologies, and I enjoy exploring different programming paradigms and frameworks. I am particularly interested in developing data-driven applications and web services.
 
 ☕ In Java, I have a strong understanding of object-oriented programming principles and design patterns. I am comfortable working with popular frameworks such as Spring and Hibernate, and I have experience building web applications and RESTful APIs.
-https://github-readme-stats.vercel.app/api?username=hasiya2004&show_icons=true&theme=transparent
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hasiya2004&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hasiya2004&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 
