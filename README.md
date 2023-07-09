@@ -1,6 +1,6 @@
 # HI! There I'm Hasindu 🤟
 
-[![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/hasiya2004)
+[![Github](https://img.shields.io/github/followers/hasiya2004?label=Follow&style=social)](https://github.com/hasiya2004)
 
 👨‍🎓 As a software engineering student, I have a passion for creating innovative and impactful software solutions. With my expertise in both Java and Python, I have a solid foundation in two of the most widely used programming languages in the industry.
 
