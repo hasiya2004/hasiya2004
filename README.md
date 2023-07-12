@@ -27,7 +27,7 @@
 
 ![Anurag's GitHub stats-Dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasiya2004&theme=dark)
 
-
+![Anurag's GitHub stats-Dark](https://github-profile-trophy.vercel.app/?username=hasindu2004&theme=dark)
 
 ## Feedback
 
