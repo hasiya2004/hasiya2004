@@ -24,11 +24,6 @@
 📚 In addition to my programming skills, I have a solid foundation in software engineering concepts such as software design, testing, and deployment. I understand the importance of writing clean, maintainable, and efficient code that meets the needs of users and stakeholders.
 
 🎯 Overall, my goal as a software engineering student is to become a well-rounded developer who can build innovative and impactful software solutions that solve real-world problems. I am excited to continue learning and growing as a developer, and I am eager to contribute to the tech community.
-
-
-
-![Anurag's GitHub stats-Dark](https://github-profile-trophy.vercel.app/?username=hasindu2004&theme=dark)
-
 ## Feedback
 
 If you have any feedback, please reach out to me at https://www.facebook.com/hasindu.senarathne2004
