@@ -16,7 +16,7 @@
 <img align= "bottom"  src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img align= "left"  src ="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img align= "left"  src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img align= "left"  src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img align= "left"  src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
 
 🐍 In Python, I am proficient in using various libraries and frameworks such as NumPy, Pandas, and Django, among others. I am particularly interested in data analysis and machine learning, and I have experience building predictive models and data visualizations.
 
