@@ -11,7 +11,7 @@ class Meta(type):
 
 
 class Bio(metaclass=Meta):
-    name        : str = "Hasindu Senarathne"
+    name        : str = "Hasindu Senarathna"
     designation : str = "Data Scientist n Developer"
     company     : str = "Lazuno"
     base        : str = "Warakapola , Sri Lanka "
