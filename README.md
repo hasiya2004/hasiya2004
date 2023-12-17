@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/hasiya2004?label=Follow&style=social)](https://github.com/hasiya2004)
 
 
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h-fares&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
