@@ -1,39 +1,90 @@
 ```python
 
-from dataclasses import dataclass
-from typing import Tuple
+#[derive(Debug, PartialEq)]
+struct Bio {
+    name: String,
+    designation: String,
+    company: String,
+    base: String,
+    blog: String,
+}
 
+impl Bio {
+    fn new() -> Self {
+        Bio {
+            name: String::from("Hasindu Senarathna"),
+            designation: String::from("Data Scientist n Developer"),
+            company: String::from("Lazuno"),
+            base: String::from("Warakapola , Sri Lanka "),
+            blog: String::from("----------------------"),
+        }
+    }
+}
 
-class Meta(type):
-    def __new__(cls, name, bases, attrs):
-        new_cls = super().__new__(cls, name, bases, attrs)
-        return dataclass(unsafe_hash=True, frozen=True)(new_cls)
+#[derive(Debug, PartialEq)]
+struct Stack {
+    languages: Vec<String>,
+    databases: Vec<String>,
+    misc: Vec<String>,
+    ongoing: Vec<String>,
+}
 
+impl Stack {
+    fn new() -> Self {
+        Stack {
+            languages: vec![
+                String::from("Python"),
+                String::from("Go"),
+                String::from("Shell"),
+                String::from("rust"),
+                String::from("java"),
+                String::from("php"),
+                String::from("html"),
+                String::from("css"),
+                String::from("js"),
+            ],
+            databases: vec![
+                String::from("MySQL"),
+                String::from("PostgreSQL"),
+                String::from("Mongo"),
+                String::from("Redis"),
+            ],
+            misc: vec![
+                String::from("Docker"),
+                String::from("Celery"),
+            ],
+            ongoing: vec![
+                String::from("Django"),
+                String::from("GraphQL"),
+            ],
+        }
+    }
+}
 
-class Bio(metaclass=Meta):
-    name        : str = "Hasindu Senarathna"
-    designation : str = "Data Scientist n Developer"
-    company     : str = "Lazuno"
-    base        : str = "Warakapola , Sri Lanka "
-    blog        : str = "----------------------"
+#[derive(Debug, PartialEq)]
+struct Social {
+    twitter: String,
+    linkedin: String,
+}
 
+impl Social {
+    fn new() -> Self {
+        Social {
+            twitter: String::from("Hasinduse"),
+            linkedin: String::from("Hasindu Senarathne"),
+        }
+    }
+}
 
-class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "Go", "Shell","rust","java","php","html","css","js")
-    databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Mongo", "Redis")
-    misc        : Tuple[str, ...] = ("Docker", "Celery")
-    ongoing     : Tuple[str, ...] = ("Django", "GraphQL")
+fn main() {
+    let bio = Bio::new();
+    let stack = Stack::new();
+    let social = Social::new();
 
+    println!("Bio: {:?}", bio);
+    println!("Stack: {:?}", stack);
+    println!("Social: {:?}", social);
+}
 
-class Social(metaclass=Meta):
-    twitter     : str = "Hasinduse"
-    linkedin    : str = "Hasindu Senarathne"
-```
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,arch,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
-</p>
 
 ⭐️ From [Hasindu](https://github.com/hasiya2004)
