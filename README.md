@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>(welcome)🙏🏻, I'm Hasindu Senarathna From Sri lanka! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -17,7 +17,7 @@ const anmol = {
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["linux distro"],
         frontEnd: {
             js: ["Vue", "Nuxt"],
             css: ["materialize", "vuetify", "bootstrap"]
@@ -26,7 +26,7 @@ const anmol = {
             js: ["node", "express", "SuiteScript"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Google cloud", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
