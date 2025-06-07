@@ -1,34 +1,58 @@
-# 🚀 Hey, I'm Hasindu Senarathna! 
+# 🌟 Hi, I'm Hasindu Senarathna
 
-**Self-Taught AI Engineer | Python & ML Alchemist**  
-*"Building intelligence from curiosity, not credentials"* 💡
+**Self-Taught AI Engineer | Python & ML Specialist**  
+*Building intelligence from curiosity, not credentials* ✨
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&width=435&lines=AI+is+my+degree;Models+are+my+textbooks;Deployment+is+my+thesis" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=0EA5E9&center=true&width=500&lines=AI+is+my+degree;Models+are+my+textbooks;Deployment+is+my+thesis" alt="Typing SVG">
 </div>
 
 ---
 
-## 🔥 My Superpowers
+## 🛠️ Tech Stack
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250">
+<div align="center">
+  
+| Category       | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| 💻 Languages   | Python, SQL                                                                  |
+| 🤖 AI/ML       | Scikit-Learn, TensorFlow, LLMs, Computer Vision                              |
+| 📊 Data        | Pandas, NumPy, Matplotlib                                                    |
+| 🚀 Deployment  | Git, Docker, Flask, Google Colab                                             |
+| ⚡ Superpower  | Building end-to-end AI solutions solo                                        |
 
-```python
-class SelfTaughtDeveloper:
-    def __init__(self):
-        self.name = "Hasindu Senarathna"
-        self.credentials = "Curiosity + StackOverflow + Coffee"
-        self.skills = {
-            "💻 Languages": ["Python", "SQL"],
-            "🤖 AI/ML": ["Scikit-Learn", "TensorFlow", "LLMs", "Computer Vision"],
-            "📊 Data": ["Pandas", "NumPy", "Matplotlib"],
-            "🛠️ Tools": ["Git", "Docker", "Flask", "Google Colab"],
-            "⚡ Superpower": "Building end-to-end AI solutions solo"
-        }
-    
-    def build(self):
-        while not self.succeed:
-            self.code()
-            self.debug()
-            self.learn()
-        return "Production-Ready AI App"
+</div>
+
+---
+
+## 🧠 Development Philosophy
+
+> "You don't need a $200k degree to build $1M solutions - you need persistence and the right tools."
+
+- **AI is my co-pilot** 🤖 - Leverage AI to accelerate development
+- **Full ownership** 🛠️ - From concept → deployment
+- **Learn by building** 🔥 - Projects are my university
+- **Democratizing AI** 🌍 - Making ML accessible to all
+
+---
+
+## 🌈 Current Projects
+
+| Project         | Description                                  | Status       |
+|-----------------|----------------------------------------------|--------------|
+| AutoML-Pipeline | Low-code model prototyping framework         | 🔥 Active    |
+| ResumeBuilderAI | GPT-powered resume generator                 | 🚀 Launched  |
+| VisionBot       | Computer vision assistant                    | ⚡ Developing|
+
+---
+
+## 🚀 My Journey
+
+```mermaid
+graph LR
+    A[Python Basics] --> B[ML Fundamentals]
+    B --> C[Scikit-Learn]
+    C --> D[Deep Learning]
+    D --> E[LLM Integration]
+    E --> F[Production Deployment]
+    F --> G[🚀 Real-World Impact]
