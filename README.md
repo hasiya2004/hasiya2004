@@ -1,55 +1,34 @@
-# 👋 Hello! I'm Hasindu Senaratha
+# 🚀 Hey, I'm Hasindu Senarathna! 
 
-🎓 Software Engineering Undergraduate at **SLIIT University**  
-💻 Passionate about coding, problem-solving, and building real-world applications
+**Self-Taught AI Engineer | Python & ML Alchemist**  
+*"Building intelligence from curiosity, not credentials"* 💡
 
----
-
-## 🧑‍💻 About Me
-
-- 🧠 Currently pursuing a degree in **Software Engineering**
-- 🌍 Based in Sri Lanka
-- 💡 Passionate about software design, system architecture, and emerging technologies
-- 🚀 Focused on becoming a full-stack developer and exploring AI and systems programming
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&width=435&lines=AI+is+my+degree;Models+are+my+textbooks;Deployment+is+my+thesis" alt="Typing SVG">
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 My Superpowers
 
-- 💻 **Languages:** Python, Java, JavaScript, HTML, CSS, Rust (beginner)
-- 🌐 **Web Development:** HTML, CSS, JavaScript
-- ⚙️ **Backend & Tools:** Python scripting, Java applications
-- 🧪 **Learning:** Rust and modern system-level programming
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250">
 
----
-
-## 📂 Projects & Interests
-
-- ✨ Python-based desktop tools and automation scripts
-- 🛠 Java and GUI applications
-- 🌐 Frontend interfaces with HTML/CSS/JS
-- 🧠 AI experiments and Rust systems practice
-- 🔗 Founder at [nukebirds.com](https://nukebirds.com)
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: `your.email@example.com` *(replace with your real email)*
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com) *(insert your link)*
-- 🌐 Website: [nukebirds.com](https://nukebirds.com)
-
----
-
-## 📊 GitHub Stats
-
-![Hasindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasindusenaratha&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasindusenaratha&layout=compact&theme=radical)
-
----
-
-## ⚡ Fun Fact
-
-I love experimenting with new programming languages and often challenge myself by recreating tools from scratch.
-
+```python
+class SelfTaughtDeveloper:
+    def __init__(self):
+        self.name = "Hasindu Senarathna"
+        self.credentials = "Curiosity + StackOverflow + Coffee"
+        self.skills = {
+            "💻 Languages": ["Python", "SQL"],
+            "🤖 AI/ML": ["Scikit-Learn", "TensorFlow", "LLMs", "Computer Vision"],
+            "📊 Data": ["Pandas", "NumPy", "Matplotlib"],
+            "🛠️ Tools": ["Git", "Docker", "Flask", "Google Colab"],
+            "⚡ Superpower": "Building end-to-end AI solutions solo"
+        }
+    
+    def build(self):
+        while not self.succeed:
+            self.code()
+            self.debug()
+            self.learn()
+        return "Production-Ready AI App"
