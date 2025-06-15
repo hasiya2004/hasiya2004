@@ -1,58 +1,63 @@
-# 🌟 Hi, I'm Hasindu Senarathna
+# 👨‍💻 Hasindu Senarathna | Self-Taught Python AI Developer
 
-**Self-Taught AI Engineer | Python & ML Specialist**  
-*Building intelligence from curiosity, not credentials* ✨
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=0EA5E9&center=true&width=500&lines=AI+is+my+degree;Models+are+my+textbooks;Deployment+is+my+thesis" alt="Typing SVG">
-</div>
+📍 Sri Lanka  
+🎯 Learning AI & Python through free online resources  
+💻 Focused on building real-world AI, automation & software tools  
+🛠️ Founder of [nukebirds.com](https://nukebirds.com) – AI tools & Python projects
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 Who Am I?
 
-<div align="center">
-  
-| Category       | Technologies                                                                 |
-|----------------|------------------------------------------------------------------------------|
-| 💻 Languages   | Python, SQL                                                                  |
-| 🤖 AI/ML       | Scikit-Learn, TensorFlow, LLMs, Computer Vision                              |
-| 📊 Data        | Pandas, NumPy, Matplotlib                                                    |
-| 🚀 Deployment  | Git, Docker, Flask, Google Colab                                             |
-| ⚡ Superpower  | Building end-to-end AI solutions solo                                        |
+I'm a self-taught developer learning Python and AI from free resources online.  
+I believe in learning by **building** — every line of code I write brings me one step closer to my dream.
 
-</div>
+I don't have a degree (yet), but I have **passion**, **discipline**, and a clear **goal** — to become a top-tier AI engineer and help others along the way.
 
 ---
 
-## 🧠 Development Philosophy
+## 🔧 My Skills (So Far)
 
-> "You don't need a $200k degree to build $1M solutions - you need persistence and the right tools."
-
-- **AI is my co-pilot** 🤖 - Leverage AI to accelerate development
-- **Full ownership** 🛠️ - From concept → deployment
-- **Learn by building** 🔥 - Projects are my university
-- **Democratizing AI** 🌍 - Making ML accessible to all
+- **Languages**: Python, HTML/CSS, JavaScript, Java, a little bit of Rust
+- **Python Tools**: Tkinter, PyInstaller, Requests, Pytube, Pillow, OS, Regex
+- **AI Libraries**: Numpy, Pandas, OpenCV, scikit-learn (beginner)
+- **Other Tools**: Git, VS Code, Kali Linux, Pop!_OS
 
 ---
 
-## 🌈 Current Projects
+## 🧠 Projects I’ve Built
 
-| Project         | Description                                  | Status       |
-|-----------------|----------------------------------------------|--------------|
-| AutoML-Pipeline | Low-code model prototyping framework         | 🔥 Active    |
-| ResumeBuilderAI | GPT-powered resume generator                 | 🚀 Launched  |
-| VisionBot       | Computer vision assistant                    | ⚡ Developing|
+- 🎥 **YouTube Downloader** – Python GUI app to download YouTube videos
+- 🔒 **Steganography Tool** – Hide secret text inside images
+- 🧠 **Mini AI Modules** – Tools for automation, detection, and prediction
+- 🛠️ **Sensor-Controlled Motor System** – IR sensor + logic system with Python
+
+> Visit [nukebirds.com](https://nukebirds.com) to see my tools & apps
 
 ---
 
-## 🚀 My Journey
+## 📚 What I’m Learning Now
 
-```mermaid
-graph LR
-    A[Python Basics] --> B[ML Fundamentals]
-    B --> C[Scikit-Learn]
-    C --> D[Deep Learning]
-    D --> E[LLM Integration]
-    E --> F[Production Deployment]
-    F --> G[🚀 Real-World Impact]
+- Python OOP, File Handling, and APIs  
+- Machine Learning fundamentals (supervised, unsupervised learning)  
+- AI for Automation (bots, detection, recognition)  
+- Building desktop apps with Python and GUI frameworks
+
+---
+
+## 🌱 My Dream
+
+To become a full-time AI developer, build valuable software, and buy a **BMW M3** one day 🚗  
+Everything I'm doing now is part of that journey.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 Website: [nukebirds.com](https://nukebirds.com)  
+- ✉️ Email: hasindusenaratna@gmail.com  
+- 💬 Message me if you're self-learning too — we rise together!
+
+---
+
+> “You don't need a degree to build your dream — just discipline, internet, and grit.”
