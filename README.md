@@ -1,58 +1,40 @@
-# hey, I'm Hasindu 👋
+# Hasindu Senarathna
 
-```bash
-$ whoami
-> self-taught python dev | AI tinkerer | 🇱🇰 Sri Lanka
-```
-
-I build things with Python — mostly AI tools, automation scripts, and whatever breaks at 2am.  
-No CS degree. Just the internet, curiosity, and way too much free time.
+Data Science student at SLTC · Python & Java dev · 🇱🇰 Sri Lanka
 
 ---
 
-## tools i actually use
+## about
+
+I'm studying Data Science at SLTC and building things on the side — AI solutions, automation tools, and security/hacking utilities. I enjoy working with others and like turning ideas into actual working code.
+
+---
+
+## skills
 
 ```python
-stack = {
-    "languages" : ["Python",  "JavaScript", "HTML/CSS", "Java", "Rust (learning)"],
-    "AI/ML"     : ["NumPy", "Pandas", "OpenCV", "scikit-learn (learning)"],
-    "python"    : ["Tkinter", "Pillow", "Requests", "PyInstaller", "Pytube"],
-    "os"        : ["Pop!_OS", "Kali Linux"],
-    "tools"     : ["VS Code", "Git"],
+skills = {
+    "languages"  : ["Python", "Java"],
+    "focus areas": ["AI & Machine Learning", "Data Science", "Security Tools"],
+    "soft skills": ["Collaboration", "Problem Solving"],
 }
 ```
 
 ---
 
-## stuff i've built
+## what i build
 
-| project | what it does |
-|--------|--------------|
-| 🎥 YouTube Downloader GUI | Desktop app — Tkinter + Pytube |
-| 🔒 Steganography Tool | Hide messages inside images |
-| 🧠 AI Mini Modules | Small automation & detection scripts |
-| 🤖 IR Sensor Motor System | Python-based hardware logic |
-
----
-
-## currently learning
-
-- [ ] Python OOP deep dive + file systems
-- [ ] ML fundamentals (the actual math, not just the API)
-- [ ] AI automation pipelines
-- [ ] Building desktop apps people actually use
+- 🤖 AI solutions — practical tools powered by ML and automation
+- 🔒 Hacking & security tools — CTF utilities, recon scripts, pentesting helpers
+- 📊 Data science projects — analysis, modeling, visualization
 
 ---
 
 ## find me
 
 ```
-🌐  nukebirds.com
 📧  hasindusenaratna@gmail.com
+🌐  nukebirds.com
 ```
 
-if you're self-learning too — same path, let's connect.
-
----
-
-<sub>building toward: full-time AI dev 🤖 + BMW M3 🚗 (in that order, probably)</sub>
+open to collaborating — if you have an idea, let's talk.
