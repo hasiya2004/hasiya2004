@@ -58,28 +58,4 @@ fn main() {
     println!("\n📫 Connect With Me");
     println!("GitHub: github.com/hasiya2004");
 }
-```
 
-# 👨‍💻 About Me
-
-* 🎓 Data Science Student at SLTC Research University
-* 🤖 Learning Artificial Intelligence & Machine Learning
-* 🐍 Experienced with Python Development
-* 📊 Interested in Data Analytics and Predictive Modeling
-* 📱 Learning Android Development with Kotlin
-* 🚀 Always building and learning new technologies
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasiya2004\&show_icons=true)
-
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasiya2004\&layout=compact)
-
----
-
-⭐ "Turning data into insights and ideas into software."
-
-```
-```
