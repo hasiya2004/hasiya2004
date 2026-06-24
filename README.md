@@ -1,24 +1,18 @@
-// ===============================================
-//  Hasindu Senarathna | Data Science & AI 🇱🇰
-// ===============================================
+<div align="center">
+  
+# 🌌 Hasindu Senarathna
+### Data Science Student & AI Enthusiast from Sri Lanka 🇱🇰
 
-struct Developer {
-    name: &'static str,
-    uni:  &'static str,
-    tech: Vec<&'static str>,
-    focus: Vec<&'static str>,
-}
+[![GitHub Profile](https://img.shields.io/badge/GitHub-hasiya2004-181717?style=for-the-badge&logo=github)](https://github.com/hasiya2004)
 
-fn main() {
-    let hasindu = Developer {
-        name:  "Hasindu Senarathna",
-        uni:   "SLTC Research University",
-        tech:  vec!["Python", "Rust", "SQL", "Kotlin", "Git", "Machine Learning"],
-        focus: vec!["AI/ML Models", "Data Analytics", "Android Dev", "Open Source"],
-    };
+---
 
-    println!("👋 Hi, I'm {} at {}", hasindu.name, hasindu.uni);
-    println!("🛠  Tech Stack: {:?}", hasindu.tech);
-    println!("🚀 Current Focus: {:?}", hasindu.focus);
-    println!("📫 Connect: github.com/hasiya2004");
-}
+### 🧠 The Core Logic (Written in Malbolge)
+*Most developers use Python or Rust. This profile compiles via the absolute limits of computer science computation.*
+
+```malbolge
+(=<`#9]~6ZYXWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876543210/.-,+*)"&%$#"!~}|{zyxwvutsrqponmlkjihgfedcba`YXWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9543210/.-,+*)"&%$#"!~}|{zyxwvutsrqponmlkjihgfedcba`XWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876543210/.-,+*)"&%$#"!~}|{zyxwvutsrqponmlkjihgfedcba`XWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876543210/.-,+*)"&%$#"!~}|{zyxwvutsrqponmlkjihgfedcb
+
+SELECT status FROM developer WHERE name = 'Hasindu' AND focus = 'AI';
+-- Output: "Always building."
+
